@@ -21,7 +21,7 @@ To use the script, you can follow these steps:
 
 1. Clone the repository to your local machine:
 ```
-git clone https://github.com/<your_username>/cron-gantt.git
+git clone https://github.com/PFarahani/cron-gantt.git
 ```
 
 2. Navigate to the cron-task-scheduler directory:
